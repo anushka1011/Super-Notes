@@ -13,6 +13,8 @@ Components :
 3. NoteList : consist of all the notes on the webpage.
 4. AddNote : It adds a bucket to the webpage.
 
+Active link : https://supernotes10.netlify.app/
+
 How to set it up on a local ?
 1. Download the build folder
 2. Run the index.html file on the local device
